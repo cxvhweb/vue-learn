@@ -23,11 +23,3 @@
     npm run build
 ```
 `node-sass`能容易安装失败，可以参照(这个)[https://segmentfault.com/a/1190000010984731] 来安装。
- ##### 可以关注我的个人公众号，获取更多学习资料
-![公众号](https://github.com/jackzhujie/vue-study/blob/master/public/img/qrcode_8.jpg)
-    
-
-
-----------
-**注：该项目只用于学习参考，不用于任何商业用途**
-**欢迎提问点赞，本人邮件1597286478@163.com，有任何问题可以联系我**
